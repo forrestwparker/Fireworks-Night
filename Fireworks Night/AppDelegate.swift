@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  Fireworks Night
 //
-//  Created by Forrest Parker on 5/12/18.
-//  Copyright © 2018 Forrest Parker. All rights reserved.
-//
 
 import UIKit
 
